@@ -142,13 +142,15 @@ uint8_t OnOffStatus;
 /****************************************/
 /*Library Initialize Function Prototypes*/
 /****************************************/
-
+lkuh
 /*! Function to Initialize an LCD Display */
 void vLCD_INITIALIZATION(void);
 /*! Function to Write commands to an LCD */
 void vWRITE_COMMAND_TO_LCD(uint8_t RS, uint8_t data);
 /*! Functions to write strings to an LCD */
 void vLCD_WRITE_STRING(char *str_ptr);
+
+//iuylkuyhlkuhlkjy
 
 /*****************************************************************************/
  

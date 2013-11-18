@@ -85,7 +85,7 @@ void vLCD_INITIALIZATION(void)
 */
 void vWRITE_COMMAND_TO_LCD(uint8_t RS, uint8_t data)
 {
-	
+ ////a;lskdur;laiud;lrakjs;lkajs;ldrkja;lsiudr;liuas;ldkur;laskud;rlkua;lskdu;lrkaud;lrkaajsd;lkruajsd;lkrua;lksujdr;lku	
 }
 
 /*!****************************************************************************
